@@ -1,1 +1,0 @@
-# nfactorial_incubator2023_1
